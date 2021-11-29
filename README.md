@@ -34,6 +34,7 @@ Hi there! I'm Luisa 👩🏻‍💻, Munich based solution architect specialized
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
+<a href="https://www.w3schools.com/js/js_json_intro.asp" title="JSON"><img src="https://github.com/get-icon/geticon/raw/master/icons/json.svg" alt="JSON" width="40px" height="40px"></a>
 <a href="https://www.atlassian.com/de/software/jira" title="Jira"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="Jira" width="40px" height="40px"></a>
 <a href="https://www.elastic.co/de/kibana/" title="Kibana"><img src="https://github.com/get-icon/geticon/raw/master/icons/kibana.svg" alt="Kibana" width="40px" height="40px"></a>
 
